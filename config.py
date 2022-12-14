@@ -4,7 +4,7 @@ client_username = getpass.getuser()
 client_hostname = socket.gethostname()
 
 # Server side settings
-server_ip = '192.168.1.145'  # weasel ip (server)
+server_ip = '192.168.100.50'  # weasel ip (server)
 server_hostname = 'XXXXX'  # kali
 server_username = 'XXXXX'  # weasel
 
