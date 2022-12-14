@@ -5,7 +5,7 @@ client_hostname = socket.gethostname()
 
 # Server side settings
 server_ip = '192.168.100.50'  # weasel ip (server)
-server_hostname = 'XXXXX'  # kali
+server_hostname = 'android-2.local'  # android termux
 server_username = 'XXXXX'  # weasel
 
 # server_savecopy_path = '/home/weasel/Desktop/LOOT/'  # for kali linux
